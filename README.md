@@ -35,7 +35,7 @@ Será necessario configurar as variáveis do ambiente java: `JAVA_HOME` e també
 Para rodar o projeto só é necessario rodar no terminal da sua IDE ou prompt de comando dentro da pasta do projeto o comando:
 
 ```bash
-javac Main.java & java Main
+javac UrnaEletronicaJava.java & java UrnaEletronicaJava
 ```
 
 ## Passo 5: Modificar o projeto
