@@ -7,7 +7,7 @@ Este repositório contém um projeto desenvolvido utilizando puramente Java. Nes
 Antes de começar, verifique se você possui as seguintes ferramentas instaladas em sua máquina:
 
 - Java JDK (Preferencialmente a versão 21.0.5 que foi a utilizada neste projeto)
-- Qualquer IDE que rode o Java
+- Qualquer IDE que rode o Java (Opcional caso queira apenas rodar o projeto)
 
 ## Passo 1: Clonar o repositório
 
