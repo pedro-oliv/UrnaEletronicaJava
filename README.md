@@ -1,6 +1,10 @@
 # {UrnaEletronicaJava}
 
-Este repositório contém um projeto desenvolvido utilizando puramente Java. Neste arquivo README, você encontrará um guia passo a passo para abrir o projeto em seu ambiente local.
+# {Descrição}
+
+Este é um projeto que simula uma urna eletronica, ao rodar ela mostra um menu com candidatos fictícios onde você pode votar, no fim do programa ele mostra os votos dos respectivos candidatos, quem venceu a eleição, a porcentagem de cada candidato com base nos votos e os votos nulos.
+
+O projeto foi desenvolvido utilizando puramente Java. Neste arquivo README, você encontrará um guia passo a passo para abrir o projeto em seu ambiente local.
 
 ## Pré-requisitos
 
